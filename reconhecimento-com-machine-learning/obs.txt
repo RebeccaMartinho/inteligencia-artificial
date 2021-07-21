@@ -1,0 +1,1 @@
+as imagens de "com máscara" e "sem máscara" estão no detector-camera.
